@@ -1,0 +1,53 @@
+.body{
+    display: flex;
+}
+
+.container1{
+    margin: 10% 0;
+    font-family: 'Roboto', sans-serif;
+    max-width: 50%;
+    background-color: rgba(0, 183, 255, 0.863);
+}
+
+.bodyLine{
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+    font-size: 5rem;
+}
+
+.bodyContainer{
+    display: flex;
+    margin-top: 5%;
+    background-color: white;
+    text-align: center;
+}
+
+.practiceText{
+    margin-top: 2%;
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+    border-bottom: 1px solid black;
+}
+
+.practiceArea{
+    background-color: rgb(247, 211, 144);
+    padding: 0% 50% 50% 0%;
+    max-width: 50%;
+}
+
+img{
+    max-width: 100%;
+}
+
+h5{
+    text-align: center;
+    color: white;
+    font-size: 1rem;
+    padding: 3% 0;
+}
+
+h6{
+    margin: 3% 20%;
+    font-family: 'Signika Negative', sans-serif;
+}
